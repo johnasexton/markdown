@@ -1,7 +1,7 @@
 # bash
 _(presumes MacOSX desktop or laptop)_
 
-### Version
+#### Version
 * check your Version
 * If bash version >=5.x you are good on version
 * If below <5.x then augment or replace it with bash v5.x
@@ -17,7 +17,7 @@ GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin20)
 Copyright (C) 2007 Free Software Foundation, Inc.
 ```
 
-##### Augment with bash v5
+##### Upgrade and/or Augment with bash v5
 * use [brew](brew.md)
 * follow [this doc](https://medium.com/@thechiefalone/how-to-install-bash-5-0-mac-os-ae570be6c687)
 
@@ -41,6 +41,7 @@ cat /etc/shells
 $ vim ~/.bashrc
 ```
 
+##### sample ~/.bashrc contents
 ```bash
 #!/bin/bash
 # example snip of PATH line in .bashrc
@@ -70,7 +71,7 @@ This is free software; you are free to change and redistribute it.
 There is NO WARRANTY, to the extent permitted by law.
 ```
 
-### Configure bash to customize your profile runtime environment
+#### Configure bash to customize your profile runtime environment
 * ${HOME}/.bash_profile - runs every time a new bash shell is created
 * ${HOME}/.bashrc - environment variables that get sourced by your .bash_profile
 * both files should be writable by author and readable by all others 'chmod 644'
@@ -78,6 +79,7 @@ There is NO WARRANTY, to the extent permitted by law.
 * structure: define shell '#!/bin/bash', define variables 'export APPHOME=/opt/app', define $PATH, define SSH private keys to add to keychain, define aliases, define command prompt
 
 ##### Use .bash_profile to check for existence of .bashrc and source it when present
+
 ```bash
 # edit the file and set permissions
 vim ~/.bash_profile
@@ -88,6 +90,7 @@ cat ~/.bash_profile
 ```
 
 ##### .bash_profile example file
+
 ```bash
 #!/bin/bash
 # sample .bash_profile contents
@@ -96,6 +99,7 @@ if [ -f '/Users/${USER}/.bashrc' ]; then source '/Users/${USER}/.bashrc'; fi
 ```
 
 ##### Use .bashrc to setup all ENV variables, PATH & aliases
+
 ```bash
 # edit the file and set permissions
 vim ~/.bashrc
@@ -106,6 +110,7 @@ cat ~/.bashrc
 ```
 
 ##### .bashrc example file
+
 ```bash
 #!/bin/bash
 # sample .bashrc contents
