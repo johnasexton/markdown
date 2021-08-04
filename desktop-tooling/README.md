@@ -9,4 +9,4 @@
 * [node / npm](node-npm.md)
 * [openjdk](openjdk.md)
 * [ssh](ssh.md)
-* [terraform](terraform)
+* [terraform](terraform.md)
