@@ -1,1 +1,1 @@
-# Python, Pip & Anaconda 
+# python, pip & anaconda 

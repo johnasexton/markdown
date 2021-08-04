@@ -1,4 +1,4 @@
-### TACTICAL PLAN:
+# tactical
 * Git Group/Organization GitLab/GitHub
 * git repos
 * GKE / AppEngine (infra/apps clusters)

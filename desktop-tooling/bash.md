@@ -1,4 +1,4 @@
-# Bash
+# bash
 _(presumes MacOSX desktop or laptop)_
 
 ### Version

@@ -1,1 +1,1 @@
-# Ruby, Gem & Bundler 
+# ruby, gem & bundler 

@@ -1,4 +1,4 @@
-# Brew
+# brew
 
 ### Installation
 * [site: brew.sh](https://brew.sh/)
