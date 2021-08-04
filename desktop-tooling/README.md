@@ -1,12 +1,12 @@
 ### DESKTOP-TOOLING
-* bash
-* brew
-* git
-* anaconda / python 3.x
-* gcloud
-* maven
-* openjdk
-* node / npm
-* helm
-* terraform
-* docker
+* [bash](bash.md)
+* [brew](brew.md)
+* [gcloud](gcloud.md)
+* [git](git.md)
+* [hadoop](hadoop.md)
+* [helm](helm.md)
+* [maven](maven.md)
+* [node / npm](node-npm.md)
+* [openjdk](openjdk.md)
+* [ssh](ssh.md)
+* [terraform](terraform)
