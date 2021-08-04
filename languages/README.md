@@ -1,12 +1,17 @@
 ##### LANGUAGES
-* java
-* nodeJS / npm
-* ruby / gem / bundler
-* docker
-* groovy / tekton 
-* python / pip / anaconda
-* yaml, json, html, markdown, xml, REST, SOAP
-
 * [docker](docker.md)
-* [anaconda / pip / python 3.x](anaconda-pip-python.md)
+* [groovy](groovy.md)
+* [helm](helm.md)
+* [html](html.md)
+* [java](java.md)
+* [json](json.md)
+* [markdown](markdown.md)
+* [nodeJS / npm](nodejs-npm.md)
+* [python / pip / anaconda](python-pip-anaconda.md)
+* [rest](rest.md)
+* [ruby / gem / bundler](ruby-gem-bundler.md)
+* [soap](soap.md)
 * [sql](sql.md)
+* [tekton](tekton.md)
+* [xml](xml.md)
+* [yaml](yaml.md)

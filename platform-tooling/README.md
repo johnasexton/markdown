@@ -1,16 +1,15 @@
 ### PLATFORM:
-* Helm 3.xa
-* Nginx ILB
-* GitHub
-* GitLab
-* Jenkins-X
-* Jenkins
-* Spinnaker
-* Prometheus
-* Grafana
-* Istio
-* Envoy
-* Vault
-* Consul
-* Jaeger
-* Zipkin
+* [Consul](consul.md)
+* [Envoy](envoy.md)
+* [GitHub](github.md)
+* [GitLab](gitlab.md)
+* [Grafana](grafana.md)
+* [Istio](istio.md)
+* [Jaeger](jaeger.md)
+* [Jenkins-X](jenkins-x.md)
+* [Jenkins](jenkins.md)
+* [Nginx](nginx.md)
+* [Prometheus](prometheus.md)
+* [Spinnaker](spinnaker.md)
+* [Vault](vault.md)
+* [Zipkin](zipkin.md)
