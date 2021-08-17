@@ -1,19 +1,18 @@
-# tactical
-* Git Group/Organization GitLab/GitHub
-* git repos
-* GKE / AppEngine (infra/apps clusters)
-* IAM / service-accounts / JSON OAUTH tokens
-* k8s-secrets
-* Jenkins - build plugins required
-* Jenkins-X / Jenkins / Artifactory?
-* Helm-Charts / helm-values
-* Dockerfiles / DockerHub
-* Spinnaker
-* CD pipelines
-* Nginx ILB
-* CloudSQL
-* Liquibase
-* Prometheus
-* Grafana
-* now go code an application in a git repo, push commits & let CICD do the rest
-monitor it in Grafana, set alerting in Prometheus, setup your communication methods / schedules in Alerting tool & you’re live in PRODUCTION
+### Tactical
+* Cloud: "GCP, AWS"
+* Source: "GitLab, GitHub"
+* Containers: "Docker Hub"
+* Documentation: "markdown"
+* Infrastructure: "Terraform"
+* Deployments: "Helm"
+* Pipelines: "Groovy, yaml"
+* Scripting: "bash, python"
+
+##### Repositories:
+* [johnasexton/markdown](https://github.com/johnasexton/markdown)
+* [johnasexton/docker](https://github.com/johnasexton/docker)
+* [johnasexton/terraform](https://github.com/johnasexton/terraform)
+* [johnasexton/helm](https://github.com/johnasexton/helm)
+* [johnasexton/groovy](https://github.com/johnasexton/groovy)
+* [johnasexton/bash](https://github.com/johnasexton/bash)
+* [johnasexton/python](https://github.com/johnasexton/python)
