@@ -5,7 +5,7 @@
 * security: Istio, Vault, IAM
 * networking: Nginx
 * observability:  Prometheus, Grafana
-* api-management: ???
+* api-management: apigee??? nginx-plus?
 * planning/collaboration: Jira, Google Hangouts, Zoom, Skype, etc
 * documentation: markdown in GitHub, shared Google Docs
 * cloud: AWS, GCP
