@@ -5,8 +5,8 @@
 * Documentation: "markdown"
 * Infrastructure: "Terraform"
 * Deployments: "Helm"
-* Pipelines: "Groovy, yaml"
-* Scripting: "bash, python"
+* Pipelines: "Groovy, yaml, json"
+* Scripting: "bash, Python"
 
 ##### Repositories:
 * [johnasexton/markdown](https://github.com/johnasexton/markdown)
