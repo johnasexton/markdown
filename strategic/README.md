@@ -8,5 +8,5 @@
 * api-management: apigee??? nginx-plus?
 * planning/collaboration: Jira, Google Hangouts, Zoom, Skype, etc
 * documentation: markdown in GitHub, shared Google Docs
-* cloud: AWS, GCP
-* storage: EC2, GCS
+* cloud: AWS, GCP & Azure
+* storage: EC2, GCS, ACS 
